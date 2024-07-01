@@ -8,6 +8,9 @@ export default {
     flowbite.content(),
   ],
   theme: {
+    container: {
+      center: true,
+    },
     extend: {},
   },
   plugins: [
