@@ -3,7 +3,7 @@ import { Card } from "flowbite-react";
 export function About() {
   return (
     <Card className="max-w-sm" >
-      <img src="./logo.jpg" alt="" />
+      <img class='object-none rounded-md' src="./logo.jpg" alt="" />
       <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
         Noteworthy technology acquisitions 2021
       </h5>
